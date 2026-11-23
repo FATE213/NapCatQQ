@@ -49,7 +49,7 @@ _Modern protocol-side framework implemented based on NTQQ._
 | Telegram | [![Telegram](https://img.shields.io/badge/Telegram-napcatqq-blue)](https://t.me/napcatqq) |
 |:-:|:-:|
 
-| DeepWiki | [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/NapNeko/NapCatQQ) |
+| DeepWiki | [![Ask DeepWiki]](https://deepwiki.com/NapNeko/NapCatQQ) |
 |:-:|:-:|
 
 > QQ群因为特殊原因需要入群密钥，请在webui关于页面获取，仅最新的100个版本以内有效。
